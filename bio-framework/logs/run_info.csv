@@ -1,0 +1,17 @@
+key,value
+variant,7
+input_file,generated.txt
+vector_count,50
+problem_count,500
+n,20
+amax,1048576
+modulus,1048577
+n_tasks_per_vector,10
+pop_size,1000
+pc,0.500000
+pm,0.041667
+tournament_k,3
+stagnation_limit,2
+use_average_stop,1
+seed,12345
+omp_threads,12
